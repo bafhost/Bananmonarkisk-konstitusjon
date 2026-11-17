@@ -1,0 +1,26 @@
+{
+  "repository": "Bananmonarkisk-konstitusjon",
+  "grunnlov": {
+    "tittel": "Bananmonarkiets grunnlov",
+    "versjon": "0.1",
+    "dokumentstatus": "ARBEIDSUTKAST",
+    "vedtatt": false,
+    "dato": "2026-11-17",
+    "ikrafttredelse": null
+  },
+  "original": {
+    "sti": "arkiv/kildedokumenter/2026-11-17/Bananmonarkiets_grunnlov_arbeidsutkast_v0_1_2026-11-17.txt",
+    "sha256": "83afb433806786a2e4ebcbc7fa242d70d0606a9e01092b2b461766457efb278a",
+    "bevaring": "uendret kilde"
+  },
+  "redaksjonelt_uttrekk": {
+    "sti": "lovverk/arbeidsutkast/grunnlov-v0.1.md",
+    "rettsvirkning": false,
+    "forrang_ved_avvik": "original"
+  },
+  "notoritet": {
+    "formelt_vedtak_dokumentert": false,
+    "signert_protokoll": false,
+    "primartranskripsjon_verifisert": false
+  }
+}

@@ -1,0 +1,44 @@
+DEL VI – NOTORITET OG BESLUTNINGSHISTORIKK
+
+A. STATUSBEGREPER
+1. «Tilsluttet prinsipp»: Det foreligger muntlig støtte til idé eller hovedregel i samtalen; ikke formell ratifikasjon.
+2. «Godkjent som utkast»: Det er gitt uttrykk for at en formulering kan stå foreløpig.
+3. «Åpent forslag»: Tekst som er formulert av assistenten eller ikke eksplisitt godkjent.
+4. «Uavklart»: Spørsmål som krever ny beslutning eller rettslig utredning.
+Ingen bestemmelser er registrert som formelt vedtatt.
+
+B. BESLUTNINGSLOGG – SAMTALE 17.11.2026
+[SRT 00:00–00:07] Bananmonarkiet beskrevet som internasjonalt kooperativt nettverk, basert på modulbygging, teknologi, samvirke og lokal selvstendighet. Mycel brukt som metafor for distribuerte forbindelser. STATUS: visjon og tolkningsgrunnlag.
+[SRT 00:07–00:15] NUF, AS og samvirkeforetak drøftet. Verdigrunnlag skal styre organisasjonsform; lokal verdiskaping og skatteforankring prioritert. STATUS: tilsluttet prinsipp; ingen selskapsform valgt.
+[SRT 00:15–00:17] Forslag om hovedregel for medlemseierskap og lokal verdiskaping, med begrunnede unntak. Bruker ønsket formulering etter norsk grunnlovsstil. STATUS: tilsluttet prinsipp; ordlyden fortsatt bearbeidet.
+[SRT 00:17–00:19] «Bananrunesteinen» foreslått som symbolsk grunnlovsgrunnlag, med paragrafer om fellesskap, verdier, kunnskapsdeling og unntak. STATUS: symbol og struktur tilsluttet.
+[SRT 00:19–00:25] Ønske om full grunnlov med norsk Grunnlov som forbilde, særlig folkesuverenitet, rettsstat, likeverd, frihet, åpenhet og vern om natur. STATUS: tilsluttet retning; detaljene åpne.
+[SRT 00:25–00:29] Platons idealstat og filosofkongen drøftet som filosofisk bilde. Kompetent fagstyre skal kombineres med demokratisk myndighet, ikke enevelde. STATUS: tolkningsgrunnlag.
+[SRT 00:28–00:30] Brukeren presiserte særskilt maktfordeling mellom idé/kunnskap og ressurser/bevilgninger. STATUS: tydelig tilsluttet prinsipp.
+[SRT 00:35–00:37] Uavhengig domstol/tvisteløsningsorgan ønsket. Minstealder 50 år for dommere foreslått og beholdt foreløpig. STATUS: tilsluttet utkast, rettslig gjennomgang gjenstår.
+[SRT 00:37–00:43] Rett til å motsette seg avskaffelse av den demokratiske orden diskutert. Brukeren krevde absolutte grenser, lite skjønn og en «sikkerhetsventil» for demokratiet. STATUS: klart tilsluttet prinsipp; ordlydsvarianter er ikke formelt ratifisert.
+[SRT 00:43–00:47] Brukeren ba om samlet grunnlov i TXT-format og særskilt notoritet. Versjonsnummer, beslutningshistorikk og skille mellom godkjent og utkast ble avtalt. STATUS: dokumentasjonskrav uttrykkelig tilsluttet.
+[SRT 00:49–00:56] USAs fjerde grunnlovstillegg sammenlignet med Grunnloven §§ 102 og 113. Brukeren ønsket positiv legalitetskontroll før inngrep, uavhengig prøving også utenfor ordinær arbeidstid, og at borgeren ikke må saksøke staten for å få forhåndskontroll. Ønsket norsk juridisk språk og minst mulig skjønn. STATUS: § 8 er et uttrykkelig UTEKSTFESTET UTKAST; ingen endelig ordlyd vedtatt.
+[SRT 00:56–01:01] Brukeren etterlyste en faktisk TXT-fil og påpekte manglende notoritet. Assistenten erkjente at fil ikke var levert. Brukeren ba deretter om HELE teksten i chatten, ikke en kort oppsummering. STATUS: dette dokumentet er samlet svar på kravet.
+
+C. SÆRSKILT BEVARTE ORIGINALFORMULERINGER
+1. «Medlemseierskap og lokal verdiskaping bør finne sted.»
+2. «Fellesskapet har rett til å endre eller oppheve ordenen dersom den ikke lenger tjener formålet om frihet, likeverd og rettferdighet.» [Tidligere utkast; ikke siste valgte ordlyd.]
+3. «Fellesskapet kan endre eller oppheve ordenen når den bryter med frihet, likeverd eller rettferdighet.» [Strammere utkast; senere etterspurt enda klarere vilkår.]
+4. «Avskaffes frie valg, stemmerett eller uavhengig domstolskontroll, er vedtaket ugyldig, og medlemmene har rett og plikt til å gjenopprette demokratisk orden.» [Samtalens oppsummerte sikkerhetsventil; pliktens rekkevidde ikke rettslig avklart.]
+5. «Den som forvalter ideene og kunnskapen, skal ikke alene forvalte ressursene som gjør dem virksomme.» [Sentralt maktfordelingsprinsipp.]
+
+D. UTTRYKKELIG ÅPNE PUNKTER
+- Valg av faktisk juridisk organisasjonsform og hvilke vedtekter som gjelder.
+- Om medlemskap er for personer, selskaper, offentlige organer eller kombinasjoner; stemmerett og representasjon.
+- Konkret kompetansefordeling mellom fagorganer og ressursorganer.
+- Tvisteløsningsorganets rettslige art, kompetanse, uavhengighet, ankeordning og håndhevelse.
+- Om minstealderen 50 år er saklig og lovlig i den relevante organisasjonsformen.
+- Uttømmende definisjon av inngrep i § 8, forholdet til samtykke, personvernrett og ordinær databehandling.
+- Ordning for domstolsberedskap og kontroll utenfor ordinær arbeidstid.
+- Vilkår og rettsvirkninger ved brudd på demokratiets sikkerhetsventil.
+- Grunnlovsendringsprosedyre, terskel og eventuelle uforanderlige bestemmelser.
+- Hvordan medlemsorganene godkjenner og signerer grunnloven formelt.
+
+E. VIDERE VERSJONSKONTROLL
+Ved senere revisjoner bør hver versjon lagres uendret med fortløpende versjonsnummer, dato, ansvarlig redaktør, endringslogg, kildehenvisninger og SHA-256-kontrollsum. Vedtak bør registreres særskilt med ordlyd, organ, beslutningsdato, stemmetall og signatur eller annen etterprøvbar autentisering.
